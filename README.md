@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ¿Quién eres?
-Soy Hilda Suazo, estudiante en el área de informática y apasionada por la transformación digital.
+Soy Hilda Suazo, egresada en el área de informática y apasionada por la transformación digital.
 
 Soy de Cobquecura, Chile.
 
