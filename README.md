@@ -24,6 +24,8 @@ Porque estoy en constante aprendizaje y abierta a colaborar en proyectos que req
 💼 LinkedIn:https://www.linkedin.com/in/hilda-suazo-594732ab
 
 🌐 GitHub:https://github.com/hildasuazoc/
+
+Gracias por visitar mi portafolios
 <!--
 **hildasuazoc/hildasuazoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
